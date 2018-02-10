@@ -25,7 +25,7 @@ Good luck!
 ### Review criteria
 Goal | Name of Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/guillare/Getting-and-Cleaning-Data-Course-Project/run_analysis.R  “run_analysis.R”)
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/guillare/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R  “run_analysis.R”)
 Tidy Data Set |  final_data.txt |  [Data Set Link](https://github.com/guillare/Getting-and-Cleaning-Data-Course-Project/blob/master/final_data.txt “final_data.txt”)
 Github Repo | Repository |  [Repo Link]()
 Cook Book | Code Book.md |  [Repo Link]()
